@@ -1,2 +1,1 @@
-# handheld-retro-console
-A simple handheld retro console with 6 Inputs, 1.8-inch color display and rechargeable battery. Includes two games for now snake and brick breaker, more can be added later
+A DIY tiny handheld console using a 0.96 oled and an esp32 with 8 input buttons, buzzer for sound, and a tiny coin vibration motor for haptic feedback. Includes a battery and charging mechanism so it can be used repeatedly. Main focus is on the side; I want it to be palm sized so it's easy to carry :)
