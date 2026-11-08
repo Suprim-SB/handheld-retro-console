@@ -41,7 +41,21 @@ PCB:
 <br><img width="545" height="374" alt="image" src="https://github.com/user-attachments/assets/3999a16e-a1f2-42a0-8c06-f0fc1aef9cf0" />
 
 
-**THE BOM IS IN THE BOM.csv**
+## Bill of Materials (BOM)
+
+| Item | Qty | Supplier | Cost/Item | Total Cost | Link |
+|---|---:|---|---:|---:|---|
+| ESP32-C3-Supermini | 1 | Ekaithau | $4.65 | $4.65 | [Link](https://ekaithau.com/products/esp32-c3-mini/) |
+| 1.3" OLED | 1 | Himalayan Solutions | $4.00 | $4.00 | [Link](https://himalayansolution.com/product/1-3-inch-oled-display) |
+| Buzzer | 1 | Himalayan Solutions | $0.20 | $0.20 | [Link](https://himalayansolution.com/product/buzzer) |
+| LiPo Battery 3.7V | 1 | Giga Nepal | $3.66 | $3.66 | [Link](https://www.giganepal.com/product/3-7v-1100mah-li-po-rechargeable-battery-original-type/) |
+| TP4056 Module | 1 | Himalayan Solutions | $0.33 | $0.33 | [Link](https://himalayansolution.com/product/type-c-5v-1a-tp4056-1s-lithium-battery-charger) |
+| Push Buttons (5 pack) | 2 | Giga Nepal | $0.66 | $1.32 | [Link](https://www.giganepal.com/product/push-button-switch/) |
+| Slide Switch | 1 | Himalayan Solutions | $0.10 | $0.10 | [Link](https://himalayansolution.com/product/slide-switch-small) |
+| PCB Printing | 1 | JLCPCB | $2.00 | $2.00 | [Link](https://cart.jlcpcb.com/shopcart/cart/) |
+| Passive Components | 3 | Himalayan Solutions | $0.22 | $0.66 | [Link](https://himalayansolution.com/product/capacitor-solid-state-100uf-35v) |
+| Estimated Shipping | 1 | - | - | $12.87 | - |
+| **Total** | | | | **$29.79** | |
 <br> *The photos of carts are uploaded below*
 
 
