@@ -41,26 +41,8 @@ PCB:
 <br><img width="545" height="374" alt="image" src="https://github.com/user-attachments/assets/3999a16e-a1f2-42a0-8c06-f0fc1aef9cf0" />
 
 
-#Bill of Materials:
-This bill is mostly fit for the country from where I am building this (Nepal), if if it isn't possible to buy these items from where you are, you could resort to international vendors.
-| Item | Link | Price (USD) |
-|---|---|---:|
-| Seeed Studio XIAO ESP32-S3 | [Daraz Nepal](https://www.daraz.com.np/products/i1546190932-s12368458639.html) | $9.56 |
-| 0.96-inch OLED Display SSD1306 128×64 | [Giga Nepal](https://www.giganepal.com/product/0-96-inch-oled-display/) | $3.87 |
-| DHT11 Temperature and Humidity Sensor | [Giga Nepal](https://www.giganepal.com/product/temperature-humidity-sensor-dht-11/) | $1.93 |
-| GY-521 MPU6050 Accelerometer and Gyroscope | [Giga Nepal](https://www.giganepal.com/product/mpu6050-3-axis-accelerometer-gyroscope-sensor/) | $3.22 |
-| DIY DSA Keycap (×2) | [Daraz Nepal](https://www.daraz.com.np/mechanical-keyboard-accessories-diy-dsa-keycap-multiple-color-for-mx-switches-keyboard-key-cap-durable-not-engraving-blank-key-cover-i169794078-s1186614213.html) | $2.60 |
-| HMX Taro Ball Linear Switch (×2) | [ErgoKeys Nepal](https://ergokeysnepal.com/product/hmx-taro-ball-linear-switch/) | $0.84 |
-| **Total** | | **$22.03** _(Without Shipping)_|
-
-_Prices may fluctuate_
-<br>_PCB prices (JLCPCB)
-<br> PCB price = $10.30
-<br> Delivery fee (the resonably priced one takes long 18-24 days) = $15.33 OR a faster one at ~35$ for shipping
-<br> Total = 25.63 (but with a coupon for new user it becomes 15.33)
-
-<br>So pcb + other parts = $37.36 (Over the 30$ grant)
-<br> So i would fund the rest with my own budget
+**THE BOM IS IN THE BOM.csv**
+*The photos of carts are uploaded below*
 
 
 <br><img width="1313" height="698" alt="image" src="https://github.com/user-attachments/assets/76f4387f-3865-43fc-ae94-438269b520c5" />
