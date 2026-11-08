@@ -42,12 +42,12 @@ PCB:
 
 
 **THE BOM IS IN THE BOM.csv**
-*The photos of carts are uploaded below*
+<br> *The photos of carts are uploaded below*
 
 
-<br><img width="1313" height="698" alt="image" src="https://github.com/user-attachments/assets/76f4387f-3865-43fc-ae94-438269b520c5" />
+<img width="959" height="538" alt="1" src="https://github.com/user-attachments/assets/48ea1b12-be4f-43aa-a2b7-3698d0fd1bb8" />
+<img width="959" height="539" alt="2" src="https://github.com/user-attachments/assets/cd4084d7-aa62-4527-aa81-e23a98c8b917" />
+<img width="926" height="485" alt="3" src="https://github.com/user-attachments/assets/63d566e6-8aea-4108-bd74-db77ae6f592b" />
+<img width="928" height="484" alt="4" src="https://github.com/user-attachments/assets/04a7ef7e-e02d-442b-a6e9-bdd3739ada28" />
+<br> *Ignore the shipping prices, I am getting them physically*
 
-
-<img width="1209" height="508" alt="image" src="https://github.com/user-attachments/assets/b8042103-e81b-497b-a573-3017fd8e17cf" />
-<img width="1253" height="495" alt="image" src="https://github.com/user-attachments/assets/7a65ec73-e1d3-4444-a52a-7d95d7134755" />
-<img width="1313" height="693" alt="image" src="https://github.com/user-attachments/assets/09e8c3e1-4651-4751-873e-6ea7fa75f65b" />
