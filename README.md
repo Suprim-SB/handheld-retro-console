@@ -55,8 +55,8 @@ PCB:
 | Slide Switch | 1 | Himalayan Solutions | $0.10 | $0.10 | [Link](https://himalayansolution.com/product/slide-switch-small) |
 | PCB Printing | 1 | JLCPCB | $2.00 | $2.00 | [Link](https://cart.jlcpcb.com/shopcart/cart/) |
 | Passive Components | 3 | Himalayan Solutions | $0.22 | $0.66 | [Link](https://himalayansolution.com/product/capacitor-solid-state-100uf-35v) |
-| Estimated Shipping | 1 | - | - | $12.87 | - |
-| **Total** | | | | **$29.79** | |
+| Estimated Shipping | 1 | - | - | $14.87 | - |
+| **Total** | | | | **$31.79** | |
 <br> *The photos of carts are uploaded below*
 
 
@@ -64,5 +64,5 @@ PCB:
 <img width="959" height="539" alt="2" src="https://github.com/user-attachments/assets/cd4084d7-aa62-4527-aa81-e23a98c8b917" />
 <img width="926" height="485" alt="3" src="https://github.com/user-attachments/assets/63d566e6-8aea-4108-bd74-db77ae6f592b" />
 <img width="928" height="484" alt="4" src="https://github.com/user-attachments/assets/04a7ef7e-e02d-442b-a6e9-bdd3739ada28" />
-<br> *Ignore the shipping prices, I am getting them physically*
+
 
