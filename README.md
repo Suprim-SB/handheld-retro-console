@@ -1,7 +1,9 @@
 # HANDHELD RETRO CONSOLE
 A diy handheld retro console that is built to be simple, cheap and small. It includes classic retro games that you can play to spend your time!
-<img width="987" height="868" alt="image" src="https://github.com/user-attachments/assets/269e4eaf-958d-4553-8293-6915fe6f3a2e" />
-<img width="1038" height="874" alt="image" src="https://github.com/user-attachments/assets/0f7331a1-5604-4e29-8a73-bfa1d3ea6337" />
+<br> ![Uploading image.png…]()
+
+<br><img width="987" height="868" alt="image" src="https://github.com/user-attachments/assets/269e4eaf-958d-4553-8293-6915fe6f3a2e" />
+<br><img width="1038" height="874" alt="image" src="https://github.com/user-attachments/assets/0f7331a1-5604-4e29-8a73-bfa1d3ea6337" />
 
 
 
